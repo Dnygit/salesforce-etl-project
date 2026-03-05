@@ -6,6 +6,7 @@ This project simulates Salesforce CRM opportunity data and builds a simple ETL p
 The data is extracted from a CSV file, transformed using Python, and loaded into a MySQL database for analysis.
 
 ## Tools Used
+- Saleforce CRM
 - Python
 - MySQL
 - SQL
