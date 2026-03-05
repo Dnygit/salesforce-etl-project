@@ -1,0 +1,101 @@
+opportunity_id,account_name,stage,owner,city,product,amount,close_date
+1,Capgemini,Prospecting,Vikram,Delhi,CRM License,169423,2025-05-14
+2,ICICI Bank,Prospecting,Priya,Hyderabad,Service Cloud,98857,2025-03-08
+3,HDFC Bank,Qualification,Sneha,Nagpur,Analytics Cloud,30771,2025-04-09
+4,Cognizant,Negotiation,Priya,Hyderabad,CRM License,117644,2025-02-26
+5,Tech Mahindra,Closed Lost,Sneha,Kolkata,Sales Cloud,43844,2025-03-17
+6,Accenture,Qualification,Karan,Pune,Service Cloud,86534,2025-03-05
+7,Wipro,Prospecting,Riya,Chennai,Analytics Cloud,133388,2025-01-22
+8,Infosys,Closed Lost,Priya,Mumbai,Service Cloud,200902,2025-06-14
+9,Adani Group,Closed Lost,Rahul,Delhi,Service Cloud,173794,2025-05-25
+10,Cognizant,Qualification,Karan,Kolkata,Analytics Cloud,30536,2025-02-17
+11,Reliance Industries,Qualification,Riya,Hyderabad,Analytics Cloud,188969,2025-06-08
+12,TCS,Proposal,Anjali,Bangalore,CRM License,32512,2025-05-09
+13,LTIMindtree,Proposal,Arjun,Mumbai,Analytics Cloud,47843,2025-03-08
+14,TCS,Closed Lost,Rahul,Mumbai,Service Cloud,41742,2025-03-22
+15,TCS,Prospecting,Anjali,Hyderabad,Analytics Cloud,139837,2025-06-23
+16,Cognizant,Proposal,Karan,Hyderabad,Sales Cloud,72920,2025-02-10
+17,Capgemini,Closed Won,Amit,Nagpur,Marketing Cloud,242742,2025-03-29
+18,Infosys,Qualification,Amit,Bangalore,Sales Cloud,157900,2025-06-14
+19,Cognizant,Closed Lost,Sneha,Delhi,Service Cloud,80817,2025-02-01
+20,Accenture,Negotiation,Sneha,Chennai,Sales Cloud,232888,2025-05-24
+21,Adani Group,Prospecting,Vikram,Hyderabad,Analytics Cloud,137357,2025-03-07
+22,Infosys,Prospecting,Neha,Chennai,Service Cloud,178862,2025-04-30
+23,Wipro,Proposal,Riya,Bangalore,Service Cloud,47095,2025-05-29
+24,HCL,Negotiation,Sneha,Kolkata,Sales Cloud,107385,2025-05-03
+25,HCL,Closed Won,Rahul,Hyderabad,Analytics Cloud,193585,2025-01-28
+26,Larsen & Toubro,Closed Won,Priya,Mumbai,Service Cloud,25145,2025-03-21
+27,TCS,Negotiation,Arjun,Mumbai,CRM License,149966,2025-06-08
+28,Tech Mahindra,Qualification,Anjali,Chennai,Marketing Cloud,205198,2025-05-14
+29,LTIMindtree,Qualification,Arjun,Nagpur,Marketing Cloud,30139,2025-01-16
+30,Capgemini,Closed Won,Amit,Nagpur,CRM License,207849,2025-04-09
+31,Accenture,Prospecting,Vikram,Hyderabad,CRM License,109056,2025-03-03
+32,Wipro,Closed Lost,Riya,Pune,Sales Cloud,105117,2025-02-18
+33,Tech Mahindra,Negotiation,Sneha,Chennai,Marketing Cloud,204608,2025-01-09
+34,Capgemini,Closed Won,Anjali,Chennai,Marketing Cloud,113853,2025-06-23
+35,Cognizant,Qualification,Rahul,Mumbai,Marketing Cloud,127788,2025-06-06
+36,Wipro,Qualification,Amit,Pune,CRM License,46040,2025-03-26
+37,Adani Group,Proposal,Anjali,Kolkata,Sales Cloud,180362,2025-01-30
+38,ICICI Bank,Prospecting,Arjun,Mumbai,Service Cloud,220474,2025-02-21
+39,Persistent Systems,Qualification,Anjali,Kolkata,CRM License,141842,2025-05-21
+40,Reliance Industries,Closed Lost,Vikram,Hyderabad,Sales Cloud,112711,2025-01-08
+41,HCL,Closed Won,Riya,Delhi,Analytics Cloud,113923,2025-03-31
+42,ICICI Bank,Prospecting,Amit,Chennai,Sales Cloud,228915,2025-04-20
+43,TCS,Closed Won,Anjali,Pune,Sales Cloud,229267,2025-04-29
+44,Larsen & Toubro,Closed Lost,Priya,Chennai,CRM License,187220,2025-04-30
+45,Infosys,Proposal,Sneha,Kolkata,Analytics Cloud,188829,2025-03-08
+46,HDFC Bank,Closed Lost,Priya,Hyderabad,Marketing Cloud,237208,2025-03-13
+47,LTIMindtree,Prospecting,Priya,Bangalore,Analytics Cloud,89087,2025-04-25
+48,HDFC Bank,Prospecting,Vikram,Kolkata,CRM License,67410,2025-03-03
+49,Reliance Industries,Closed Lost,Anjali,Kolkata,Sales Cloud,218348,2025-03-07
+50,HDFC Bank,Qualification,Rahul,Pune,Service Cloud,60615,2025-03-17
+51,Wipro,Proposal,Arjun,Nagpur,Sales Cloud,149201,2025-01-22
+52,HDFC Bank,Closed Lost,Sneha,Pune,Service Cloud,199473,2025-06-17
+53,HDFC Bank,Proposal,Arjun,Mumbai,Analytics Cloud,214632,2025-04-07
+54,HDFC Bank,Qualification,Arjun,Mumbai,Sales Cloud,140320,2025-02-16
+55,Larsen & Toubro,Qualification,Vikram,Kolkata,CRM License,44437,2025-05-18
+56,Tech Mahindra,Proposal,Priya,Hyderabad,Service Cloud,93814,2025-04-04
+57,Wipro,Negotiation,Sneha,Mumbai,Analytics Cloud,88350,2025-01-29
+58,HDFC Bank,Closed Won,Neha,Chennai,Analytics Cloud,130319,2025-01-12
+59,Cognizant,Closed Lost,Amit,Delhi,Service Cloud,37958,2025-06-15
+60,Capgemini,Closed Lost,Riya,Kolkata,CRM License,241043,2025-05-01
+61,TCS,Qualification,Arjun,Hyderabad,Analytics Cloud,49619,2025-01-04
+62,Adani Group,Closed Won,Priya,Pune,Marketing Cloud,217730,2025-05-01
+63,Cognizant,Closed Lost,Riya,Hyderabad,Service Cloud,69711,2025-01-10
+64,Adani Group,Proposal,Anjali,Kolkata,Sales Cloud,94418,2025-02-04
+65,LTIMindtree,Prospecting,Priya,Nagpur,Service Cloud,90781,2025-06-23
+66,Adani Group,Qualification,Arjun,Mumbai,Service Cloud,233441,2025-04-05
+67,Tech Mahindra,Proposal,Vikram,Kolkata,CRM License,71343,2025-01-22
+68,LTIMindtree,Prospecting,Anjali,Hyderabad,Service Cloud,126928,2025-03-12
+69,Persistent Systems,Negotiation,Neha,Hyderabad,CRM License,132626,2025-02-17
+70,Larsen & Toubro,Closed Lost,Priya,Kolkata,Service Cloud,217487,2025-05-02
+71,Infosys,Negotiation,Neha,Hyderabad,Sales Cloud,32597,2025-03-19
+72,Adani Group,Closed Won,Amit,Delhi,CRM License,57016,2025-04-07
+73,Adani Group,Prospecting,Priya,Chennai,CRM License,208761,2025-06-26
+74,Persistent Systems,Closed Won,Amit,Chennai,Service Cloud,70046,2025-05-12
+75,Infosys,Closed Lost,Rahul,Chennai,Sales Cloud,96487,2025-02-04
+76,Tech Mahindra,Prospecting,Sneha,Pune,Analytics Cloud,85260,2025-05-07
+77,Cognizant,Proposal,Riya,Delhi,Analytics Cloud,53747,2025-06-11
+78,TCS,Negotiation,Priya,Delhi,Marketing Cloud,98818,2025-06-07
+79,Reliance Industries,Prospecting,Vikram,Nagpur,Marketing Cloud,163278,2025-01-14
+80,Accenture,Negotiation,Priya,Kolkata,Analytics Cloud,157856,2025-02-26
+81,Reliance Industries,Prospecting,Karan,Mumbai,Sales Cloud,123673,2025-01-22
+82,Infosys,Closed Won,Riya,Bangalore,Sales Cloud,150138,2025-01-16
+83,HDFC Bank,Closed Won,Amit,Delhi,Analytics Cloud,192278,2025-02-07
+84,HCL,Qualification,Arjun,Nagpur,Marketing Cloud,113232,2025-03-03
+85,Persistent Systems,Closed Lost,Anjali,Kolkata,Analytics Cloud,137127,2025-01-04
+86,ICICI Bank,Negotiation,Priya,Pune,Analytics Cloud,136277,2025-02-17
+87,Cognizant,Proposal,Amit,Mumbai,Sales Cloud,42604,2025-02-20
+88,HCL,Closed Won,Anjali,Mumbai,CRM License,240955,2025-04-11
+89,ICICI Bank,Qualification,Karan,Kolkata,Service Cloud,124598,2025-01-05
+90,TCS,Closed Lost,Arjun,Nagpur,CRM License,74527,2025-01-15
+91,TCS,Negotiation,Vikram,Hyderabad,Analytics Cloud,127199,2025-01-12
+92,Adani Group,Qualification,Priya,Mumbai,Analytics Cloud,80569,2025-05-06
+93,ICICI Bank,Proposal,Sneha,Mumbai,Analytics Cloud,57236,2025-03-07
+94,LTIMindtree,Prospecting,Riya,Bangalore,Marketing Cloud,127901,2025-04-04
+95,Infosys,Prospecting,Amit,Chennai,Marketing Cloud,121480,2025-05-02
+96,HDFC Bank,Proposal,Riya,Delhi,Sales Cloud,220489,2025-03-29
+97,Wipro,Negotiation,Priya,Delhi,Sales Cloud,155673,2025-03-16
+98,Capgemini,Closed Lost,Karan,Delhi,Sales Cloud,211906,2025-05-17
+99,HDFC Bank,Qualification,Karan,Kolkata,Sales Cloud,29455,2025-05-19
+100,Tech Mahindra,Proposal,Karan,Kolkata,Marketing Cloud,167679,2025-03-05
